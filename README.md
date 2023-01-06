@@ -11,8 +11,7 @@
   
   
 
-   
-![eroul-ri github stats](https://github-readme-stats.vercel.app/api?username=eroul-ri&count_private=true&hide_title=true)  
+![eroul-ri GitHub stats](https://github-readme-stats.vercel.app/api?username=eroul-ri&show_icons=true&theme=dracula&count_private=true&hide_title=true)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/eroul-ri/eroul-ri)  
    
    <h2 align="center">Contacts</h2>  
