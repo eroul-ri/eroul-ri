@@ -15,7 +15,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/eroul-ri/eroul-ri)  
    
    <h2 align="center">Contacts</h2>  
-   <p align="center"><a href="mailto:bhr139313@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white"/></a> <a href="https://eroul-ri.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-00000?style=for-the-badge&logoColor=white"/></a></p>
+   <p align="center"><a href="mailto:bhr139313@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white"/></a> <a href="https://eroul-ri.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-00000?style=for-the-badge&logoColor=white"/></a></p>
 <!--
 **eroul-ri/eroul-ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
